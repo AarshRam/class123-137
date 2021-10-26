@@ -1,0 +1,44 @@
+body {
+    background-color: #20bf55;
+    background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
+    background-size: cover;
+}
+
+#input {
+    width: 30%;
+}
+
+#title {
+    font-family: 'Permanent Marker', cursive;
+    font-weight: 900;
+    font-size: 25px;
+}
+
+#title2 {
+    font-family: 'Rampart One', cursive;
+    font-weight: 400;
+    font-size: 20px;
+    color: deeppink;
+    background-color: gold;
+}
+
+#title3 {
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.bla1{
+    font-family: 'Pacifico', cursive;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+canvas{
+    border-color: lightcoral;
+    border-width: 7px;
+    box-shadow: 10px 10px 10px lemonchiffon;
+    border-radius: 10px;
+    border-style: double dashed dotted solid;
+    margin-top : 300px;
+}
